@@ -8,7 +8,7 @@ For each microblog (in Chinese):
 
 1.the first column is the text content of the source post
 
-2.the second column is the comments of the microblog, the a microblog with more than 1 comment, distinct comments are concated with ";"
+2.the second column is the comments of the microblog, for a microblog with more than 1 comment, distinct comments are concated with ";"
 
 3.the third column is the posted date
 
