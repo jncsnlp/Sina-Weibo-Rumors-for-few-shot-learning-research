@@ -13,3 +13,5 @@ For each microblog (in Chinese):
 3.the third column is the posted date
 
 4.the last column is its label (rumor or non-rumor).
+
+This dataset is suitable for either traditional rumor detection task or few-shot rumor detection task.
